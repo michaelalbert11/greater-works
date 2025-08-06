@@ -1,0 +1,163 @@
+:root {
+  --clr-red: #bb1414;
+  --clr-red-100: #ca2e2e;
+  --clr-red-200: #d32f2f;
+  --clr-red-300: #ee4747;
+  --clr-red-300: #ee5e5e;
+  --clr-light-red: #ffe4de;
+
+  --clr-brown: #ae6b1d;
+  --clr-yellow: #ffedd8;
+  --clr-blue: #0c7dff;
+  --clr-blue-200: #079adb;
+  --clr-blue-300: #e9f4ff;
+
+  --clr-sky-blue: #d4f2ff;
+  --clr-dark-blue: #1c2536;
+  --clr-dark-blue-200: #06233c;
+  --clr-dark-blue-100: #232f45;
+  --clr-blue-green: #1c7196;
+  --clr-green: #1f8e10;
+  --clr-light-green: #def3d5;
+  --clr-grey-200: #3e5060;
+  --clr-grey-300: #6c737f;
+  --clr-ash-100: #c4cdd5;
+  --clr-ash-200: #dee5ea;
+  --clr-ash-300: #e0e0e0;
+  --clr-ash-400: #f4f6f8;
+  --clr-ash-500: #f2f6f9;
+  --clr-ash-600: #efefef;
+  --clr-ash-700: #f6f6f6;
+
+  --clr-white: #ffffff;
+  --clr-black: #000000;
+  --clr-black-100: #1a2027;
+
+  --ff-pb-rg: "pb-rg";
+  --ff-pb-md: "pb-md";
+  --ff-pb-sb: "pb-sb";
+  --ff-pb-bd: "pb-bd";
+  --ff-pb-eb: "pb-eb";
+  --ff-gs-rg: "gs-rg";
+  --ff-gs-md: "gs-md";
+  --ff-gs-sb: "gs-sb";
+  --ff-gs-bd: "gs-bd";
+
+  --fs-xxx-large: 38px;
+  --fs-xx-large: 32px;
+  --fs-x-large: 28px;
+  --fs-large: 24px;
+  --fs-x-medium: 20px;
+  --fs-medium: 16px;
+  --fs-small: 15px;
+  --fs-x-small: 14px;
+  --fs-xx-small: 13.7px;
+  --fs-xxx-small: 12px;
+}
+
+@font-face {
+  font-family: "pb-rg";
+  src: url("./../assets/fonts/public-sans.regular.ttf");
+}
+@font-face {
+  font-family: "pb-md";
+  src: url("./../assets/fonts/public-sans.medium.ttf");
+}
+@font-face {
+  font-family: "pb-sb";
+  src: url("./../assets/fonts/public-sans.semibold.ttf");
+}
+@font-face {
+  font-family: "pb-bd";
+  src: url("./../assets/fonts/public-sans.bold.ttf");
+}
+@font-face {
+  font-family: "gs-rg";
+  src: url("./../assets/fonts/GeneralSans-Regular.otf");
+}
+@font-face {
+  font-family: "gs-md";
+  src: url("./../assets/fonts/GeneralSans-Medium.otf");
+}
+@font-face {
+  font-family: "gs-sb";
+  src: url("./../assets/fonts/GeneralSans-Semibold.otf");
+}
+@font-face {
+  font-family: "gs-bd";
+  src: url("./../assets/fonts/GeneralSans-Bold.otf");
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  font-family: var(--ffy-regular);
+  font-size: var(--fsz-small);
+  color: var(--clr-black);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: normal;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+a,
+a:focus,
+a:visited {
+  /* color: inherit; */
+  text-decoration: none;
+}
+
+article,
+aside,
+details,
+footer,
+header,
+nav,
+section {
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  font: inherit;
+  border: none;
+  background-color: inherit;
+}
+button:active {
+  opacity: 0.7;
+}
+button:disabled {
+  opacity: 0.4;
+}
+
+main {
+  width: 100%;
+}

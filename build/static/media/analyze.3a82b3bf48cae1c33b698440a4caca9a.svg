@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Web/SVG/analyze</title>
+    <g id="Web/SVG/analyze" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" fill="#0C7DFF">
+            <circle id="Oval" cx="25" cy="25" r="25"></circle>
+        </g>
+        <g id="Group" transform="translate(14, 13)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3">
+            <path d="M9.42857143,3.14285714 L9.42857143,12.5714286 L18.8571429,12.5714286 C18.8571429,17.7786847 14.6358276,22 9.42857143,22 C4.22131521,22 0,17.7786847 0,12.5714286 C0,7.36417236 4.22131521,3.14285714 9.42857143,3.14285714 L9.42857143,3.14285714 Z M13.6190476,0 C18.2477198,0 22,3.75228019 22,8.38095238 L13.6190476,8.38095238 L13.6190476,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

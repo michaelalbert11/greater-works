@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Web/SVG/execute</title>
+    <g id="Web/SVG/execute" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" fill="#0C7DFF">
+            <circle id="Oval" cx="25" cy="25" r="25"></circle>
+        </g>
+        <g id="Group" transform="translate(10, 18)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2">
+            <path d="M13.4364821,4.5443196 L11.0912052,1.94756554 C8.5504886,-0.584269663 4.44625407,-0.584269663 1.90553746,1.94756554 C-0.635179153,4.4144819 -0.635179153,8.56928839 1.90553746,11.1011236 C4.44625407,13.6329588 8.5504886,13.6329588 11.0912052,11.1011236 L18.9087948,1.94756554 C21.4495114,-0.584269663 25.5537459,-0.584269663 28.0944625,1.94756554 C30.6351792,4.47940075 30.6351792,8.56928839 28.0944625,11.1011236 C25.5537459,13.6329588 21.4495114,13.6329588 18.9087948,11.1011236 L16.5635179,8.37453184" id="Path"></path>
+            <line x1="13.6970684" y1="4.5443196" x2="13.6970684" y2="0" id="Path"></line>
+            <line x1="13.6970684" y1="4.5443196" x2="9.13680782" y2="4.5443196" id="Path"></line>
+        </g>
+    </g>
+</svg>

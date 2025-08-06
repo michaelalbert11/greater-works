@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Web/SVG/back</title>
+    <g id="Web/SVG/back" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Frame-47406" transform="translate(24, 24) scale(-1, 1) translate(-24, -24)">
+            <rect id="Rectangle" fill-opacity="0.1" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="48" height="48" rx="24"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#868686" fill-rule="nonzero" x="0" y="0" width="48" height="48" rx="24"></rect>
+            <g id="Group" transform="translate(15.75, 17.25)" stroke="#989898" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8">
+                <line x1="0" y1="6.75" x2="16.5" y2="6.75" id="Path"></line>
+                <polyline id="Path" points="9.75 0 16.5 6.75 9.75 13.5"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
